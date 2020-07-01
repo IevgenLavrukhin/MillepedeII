@@ -2,3 +2,11 @@
 *.o
 *.mod
 pede
+*.end
+*.log
+*.*~
+*.his
+*.res
+*.txt
+*.bin
+
